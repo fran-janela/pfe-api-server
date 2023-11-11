@@ -1,0 +1,4 @@
+*.env
+__pycache__/
+*/migrations/0*
+compose.yaml
